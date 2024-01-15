@@ -12,14 +12,29 @@ Bem-vindo ao <strong>Habit Tracker</strong>, o seu companheiro definitivo na jor
 
 ## Imagens do aplicativo
 
-<img src="https://github.com/wellgenio/habit-tracker-app/tree/assets/images/dark_mode.png" height= "400px">
-
-<img src="https://github.com/wellgenio/habit-tracker-app/tree/assets/images/light_mode.png" height= "400px">
-
+<table cellspacing="0" cellpadding="0">
+   <tr>
+           <td>
+                   <b>Dark mode</b>
+           </td>
+           <td>
+                   <b>Light mode</b>
+           </td>
+   </tr>
+        <tr>
+    <td class="first">
+            <img src="https://github.com/wellgenio/habit-tracker-app/blob/main/assets/images/dark_mode.png" height= "400px">
+    </td>
+    <td class="second">
+            </br>
+            <img src="https://github.com/wellgenio/habit-tracker-app/blob/main/assets/images/light_mode.png" height= "400px">
+    </td>
+  </tr>
+</table>
 
 ## Base da Aplicação
 
-Vamos usar algumas dependências para agilizar as coisas:
+Vamos usar algumas dependência para agilizar as coisas:
 
 - [provider](https://pub.dev/packages/provider) (v6.1.1)
 - [isar](https://pub.dev/packages/isar) Banco de dados local (v3.1.0)
